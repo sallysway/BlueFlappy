@@ -1,0 +1,9 @@
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\bin\Debug\Flappy.exe.config
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\bin\Debug\Flappy.exe
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\bin\Debug\Flappy.pdb
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\obj\Debug\Flappy.csprojResolveAssemblyReference.cache
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\obj\Debug\Flappy.Form1.resources
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.Cache
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\obj\Debug\Flappy.exe
+C:\Users\Prscar\Documents\Visual Studio 2015\Projects\Flappy\Flappy\obj\Debug\Flappy.pdb
